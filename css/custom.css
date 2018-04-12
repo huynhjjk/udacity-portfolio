@@ -7,8 +7,9 @@ hr {
 	border-width: thick;
 }
 
-p.location,
-h2.profession {
+h2.profession,
+p.introduction,
+figcaption.location {
 	font-weight: 300;
 }
 
