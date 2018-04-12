@@ -1,11 +1,27 @@
-.cursor-pointer {
-    cursor: pointer;
+body {
+	background-color: #000;
+}
+
+hr {
+	border-color: #fff;
+	border-width: thick;
+}
+
+p.location,
+h2.profession {
+	font-weight: 300;
+}
+
+.ventrove-logo {
+	width: 6em;
+    height: auto;
+    margin-top: 7px;
 }
 
 .text-decoration-none {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 .break-word {
-    word-wrap: break-word;
+	word-wrap: break-word;
 }
