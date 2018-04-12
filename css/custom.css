@@ -17,11 +17,3 @@ h2.profession {
     height: auto;
     margin-top: 7px;
 }
-
-.text-decoration-none {
-	text-decoration: none;
-}
-
-.break-word {
-	word-wrap: break-word;
-}
