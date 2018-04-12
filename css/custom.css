@@ -1,0 +1,11 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.break-word {
+    word-wrap: break-word;
+}
