@@ -7,14 +7,18 @@ hr {
 	border-width: thick;
 }
 
+section.featured-photos {
+	border-top: thick solid #fff;
+}
+
 h2.profession,
 p.introduction,
 figcaption.location {
 	font-weight: 300;
 }
 
-.ventrove-logo {
+.logo {
 	width: 6em;
-    height: auto;
-    margin-top: 7px;
+	height: auto;
+	margin-top: 7px;
 }
