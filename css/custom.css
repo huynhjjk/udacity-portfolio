@@ -7,18 +7,26 @@ hr {
 	border-width: thick;
 }
 
-section.featured-photos {
+.profile {
+	width: 6em;
+	height: auto;
+	margin-top: 7px;
+}
+
+.text-decoration-none {
+	text-decoration: none;
+}
+
+section.featured-works {
 	border-top: thick solid #fff;
 }
 
 h2.profession,
 p.introduction,
-figcaption.location {
+figcaption.description {
 	font-weight: 300;
 }
 
-.logo {
-	width: 6em;
-	height: auto;
-	margin-top: 7px;
+figcaption.description {
+	font-size: 12px
 }
